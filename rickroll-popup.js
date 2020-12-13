@@ -1,1 +1,0 @@
-alert(<img src="rickrolled.jpg");
