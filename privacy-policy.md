@@ -1,3 +1,6 @@
+---
+permalink: /privacy
+---
 Privacy Policy
 ==============
 
