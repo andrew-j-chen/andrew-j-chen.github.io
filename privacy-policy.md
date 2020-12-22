@@ -416,10 +416,10 @@ Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
 -   By email:
-	[andrewjchen@email.com](mailto:andrewjchen@email.com)
+	[andrewjchen@email.com](https://ajchen.page.link/6Ceb)
 
 -   By visiting this page on our website:
-    [https://andrew-j-chen.github.io/contact.html](https://andrew-j-chen.github.io/contact.html)
+    [https://ajchen.page.link/vUFH](https://ajchen.page.link/vUFH)
 
 -   By phone number:
-    [219.552.1088](sms:2195521088)
+    [219.552.1088](https://ajchen.page.link/mPy4)
