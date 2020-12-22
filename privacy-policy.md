@@ -64,7 +64,7 @@ For the purposes of this Privacy Policy:
     infrastructure itself (for example, the duration of a page visit).
 
 -   **Website** refers to AJC, INC, accessible from
-    [andrew-j-chen.github.io](andrew-j-chen.github.io)
+    [https://andrew-j-chen.github.io](https://andrew-j-chen.github.io)
 
 -   **You** means the individual accessing or using the Service, or the
     company, or other legal entity on behalf of which such individual is
