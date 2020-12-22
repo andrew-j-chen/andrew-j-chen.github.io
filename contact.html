@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<div id="contact_form" class="form-builder">
+<form method="post" name="emailForm" id="contact_form_form" action="/apps/email/send_mail.jsp" class="style-overwrite updated-form" onsubmit="return validate_email();" abineguid="ADE24655083F47AD9452A53B9F117C6A">
+	<input type="hidden" name="e" value="306030863066309430683104307830643074306830862994306830843060307630822958306430883084" id="e_value">
+	<input type="hidden" name="referer" value="https://www.valpo.k12.in.us/apps/pages/andrew">
+	<input type="hidden" name="n" value="Andrew Chen" id="n_value">
+	<input type="hidden" name="authName" value="" id="auth_name">
+	<input type="hidden" name="authId" value="" id="auth_id">
+	<input type="hidden" name="authEmail" value="" id="auth_email">
+	<input type="hidden" name="authType" value="" id="auth_type">
+	<input type="hidden" name="authCode" value="" id="auth_code">
+	<input type="hidden" name="accessToken" value="" id="access_token">
+
+	<div class="input-holder input">
+		<label class="input-label" for="f_name">Your Name *
+			<div class="notice">Answer Required</div>
+		</label>
+		<input type="text" class="waInputText form-input" id="f_name" name="name" aria-required="true">
+	</div>
+	<div class="input-holder input" id="email-input-holder">
+		<label class="input-label" for="f_email">Your Email *
+			<div class="notice">Answer Required</div>
+		</label>
+		<div class="icon-input">
+			<uniform-email class="input" id="f_email_holder" placeholder="" inputid="f_email" name="email" data-errormessage="Invalid email address" ariarequired="true">
+			<span>Invalid email address</span>
+			<input type="text" id="f_email" name="email" aria-required="true" placeholder="">
+		
+				<svg width="2048" height="2048" viewBox="0 0 2048 2048" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M1920 838v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"></path></svg>
+			<div id="pwm-inline-icon-34464" class="pwm-field-icon" style="position: absolute !important; width: 18px !important; height: 18px !important; min-height: 0px !important; min-width: 0px !important; z-index: 2147483645 !important; box-shadow: none !important; box-sizing: content-box !important; background: none !important; border: none !important; padding: 0px !important; cursor: pointer !important; outline: none !important; margin-top: 11px; margin-left: 456.281px;"><svg style="display: inline-block !important; width: 16px !important; height: 16px !important; fill: rgb(230, 0, 23) !important; margin-top: 0.5px !important; position: absolute !important; top: 0px !important; left: 0px !important;" viewBox="0 0 40 64"><g><path d="m20,28.12a33.78,33.78 0 0 1 13.36,2.74a22.18,22.18 0 0 1 0.64,5.32c0,9.43 -5.66,17.81 -14,20.94c-8.34,-3.13 -14,-11.51 -14,-20.94a22.2,22.2 0 0 1 0.64,-5.32a33.78,33.78 0 0 1 13.36,-2.74m0,-28.12c-8.82,0 -14,7.36 -14,16.41l0,5.16c2,-1.2 2,-1.49 5,-2.08l0,-3.08c0,-6.21 2.9,-11.41 8.81,-11.41l0.19,0c6.6,0 9,4.77 9,11.41l0,3.08c3,0.58 3,0.88 5,2.08l0,-5.16c0,-9 -5.18,-16.41 -14,-16.41l0,0zm0,22c-6.39,0 -12.77,0.67 -18.47,4a31.6,31.6 0 0 0 -1.53,9.74c0,13.64 8.52,25 20,28.26c11.48,-3.27 20,-14.63 20,-28.26a31.66,31.66 0 0 0 -1.54,-9.77c-5.69,-3.3 -12.08,-4 -18.47,-4l0,0l0.01,0.03z"></path><path d="m21.23,39.5a2.81,2.81 0 0 0 1.77,-2.59a2.94,2.94 0 0 0 -3,-2.93a3,3 0 0 0 -3,3a2.66,2.66 0 0 0 1.77,2.48l-1.77,4.54l6,0l-1.77,-4.5z"></path></g></svg></div></uniform-email>
+		</div>
+	</div>
+	<div class="input-holder input">
+		<label class="input-label" for="f_subject">Subject*
+			<div class="notice">Answer Required</div>
+		</label>
+		<input type="text" class="waInputText form-input" name="emailSubject" id="f_subject" aria-required="true">
+	<div id="pwm-inline-icon-15101" class="pwm-field-icon" style="position: absolute !important; width: 18px !important; height: 18px !important; min-height: 0px !important; min-width: 0px !important; z-index: 2147483645 !important; box-shadow: none !important; box-sizing: content-box !important; background: none !important; border: none !important; padding: 0px !important; cursor: pointer !important; outline: none !important; margin-top: -37px; margin-left: 456.297px;"><svg style="display: inline-block !important; width: 16px !important; height: 16px !important; fill: rgb(230, 0, 23) !important; margin-top: 0.5px !important; position: absolute !important; top: 0px !important; left: 0px !important;" viewBox="0 0 40 64"><g><path d="m20,28.12a33.78,33.78 0 0 1 13.36,2.74a22.18,22.18 0 0 1 0.64,5.32c0,9.43 -5.66,17.81 -14,20.94c-8.34,-3.13 -14,-11.51 -14,-20.94a22.2,22.2 0 0 1 0.64,-5.32a33.78,33.78 0 0 1 13.36,-2.74m0,-28.12c-8.82,0 -14,7.36 -14,16.41l0,5.16c2,-1.2 2,-1.49 5,-2.08l0,-3.08c0,-6.21 2.9,-11.41 8.81,-11.41l0.19,0c6.6,0 9,4.77 9,11.41l0,3.08c3,0.58 3,0.88 5,2.08l0,-5.16c0,-9 -5.18,-16.41 -14,-16.41l0,0zm0,22c-6.39,0 -12.77,0.67 -18.47,4a31.6,31.6 0 0 0 -1.53,9.74c0,13.64 8.52,25 20,28.26c11.48,-3.27 20,-14.63 20,-28.26a31.66,31.66 0 0 0 -1.54,-9.77c-5.69,-3.3 -12.08,-4 -18.47,-4l0,0l0.01,0.03z"></path><path d="m21.23,39.5a2.81,2.81 0 0 0 1.77,-2.59a2.94,2.94 0 0 0 -3,-2.93a3,3 0 0 0 -3,3a2.66,2.66 0 0 0 1.77,2.48l-1.77,4.54l6,0l-1.77,-4.5z"></path></g></svg></div></div>
+	<div class="input-holder input">
+		<label class="input-label" for="f_message">Message*
+			<div class="notice">Answer Required</div>
+		</label>
+		<textarea name="emailMsgBody" class="waInputText textarea-input" id="f_message" aria-required="true"></textarea>
+	</div>
+	
+	<div class="input-holder checkbox input">
+		<input id="emailSenderCopy" type="checkbox" name="emailSenderCopy" value="1">
+		<label for="emailSenderCopy">
+			Send me a copy of this email
+		</label>
+	</div>
+	
+	<div class="input-holder">
+		<div class="g-recaptcha"><div style="width: 304px; height: 78px;"><div><iframe src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfGJQoUAAAAAK5vCRbfaBOfkCWHdQ2oVr0ZMuw7&amp;co=aHR0cHM6Ly93d3cudmFscG8uazEyLmluLnVzOjQ0Mw..&amp;hl=en&amp;v=qc5B-qjP0QEimFYUxcpWJy5B&amp;size=normal&amp;cb=s7164pkgt8t4" width="304" height="78" role="presentation" name="a-v9jbxmj5iiah" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation"></iframe></div><label for="g-recaptcha-response" style="display: none;">g-recaptcha-response</label><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+	</div>
+
+	<input class="disabled submit-input" type="submit" value="Send">
+
+
+
+
+
+</form> 
+</div>
+</html>
