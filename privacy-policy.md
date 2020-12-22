@@ -418,11 +418,11 @@ Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
--   By email: [[email protected]](/cdn-cgi/l/email-protection)
+-   By email:
+	[mailto:andrewjchen@email.com](andrewjchen@email.com)
 
 -   By visiting this page on our website:
     [https://andrew-j-chen.github.io/contact.html](https://andrew-j-chen.github.io/contact.html)
 
--   By phone number: (219) 552-1088
-
-
+-   By phone number:
+    [sms:2195521088](219.552.1088)
