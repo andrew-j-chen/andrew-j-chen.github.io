@@ -10,9 +10,7 @@ You.
 
 We use Your Personal data to provide and improve the Service. By using
 the Service, You agree to the collection and use of information in
-accordance with this Privacy Policy. This Privacy Policy has been
-created with the help of the [Privacy Policy
-Generator](https://www.termsfeed.com/privacy-policy-generator/).
+accordance with this Privacy Policy.
 
 Interpretation and Definitions
 ==============================
@@ -136,7 +134,7 @@ improve and analyze Our Service. The technologies We use may include:
     for Browser Cookies. For more information on how You can delete
     Flash Cookies, please read "Where can I change the settings for
     disabling, or deleting local shared objects?" available at
-    [https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html\#main\_Where\_can\_I\_change\_the\_settings\_for\_disabling\_\_or\_deleting\_local\_shared\_objects\_](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html#main_Where_can_I_change_the_settings_for_disabling__or_deleting_local_shared_objects_)
+    [https://ajchen.page.link/WyeK](https://ajchen.page.link/WyeK)
 -   **Web Beacons.** Certain sections of our Service and our emails may
     contain small electronic files known as web beacons (also referred
     to as clear gifs, pixel tags, and single-pixel gifs) that permit the
@@ -148,8 +146,7 @@ improve and analyze Our Service. The technologies We use may include:
 Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies
 remain on Your personal computer or mobile device when You go offline,
 while Session Cookies are deleted as soon as You close Your web browser.
-You can learn more about cookies here: [All About Cookies by
-TermsFeed](https://www.termsfeed.com/blog/cookies/).
+You can learn more about cookies here: [All About Cookies](https://ajchen.page.link/VbSg).
 
 We use both Session and Persistent Cookies for the purposes set out
 below:
@@ -363,7 +360,7 @@ of our Service.
 
     The information gathered by Mouseflow is held in accordance with its
     Privacy Policy:
-    [https://mouseflow.com/privacy/](https://mouseflow.com/privacy/)
+    [https://ajchen.page.link/J91a](https://ajchen.page.link/J91a)
 
 -   **FreshDesk**
 
@@ -374,7 +371,7 @@ of our Service.
 
     The information gathered by FreshDesk is held in accordance with its
     Privacy Policy:
-    [https://www.freshworks.com/privacy/](https://www.freshworks.com/privacy/)
+    [https://ajchen.page.link/88ks](https://ajchen.page.link/88ks)
 
 -   **Google Places**
 
@@ -386,7 +383,7 @@ of our Service.
 
     The information gathered by Google Places is held in accordance with
     the Privacy Policy of Google:
-    [https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
+    [https://ajchen.page.link/yxF4](https://ajchen.page.link/yxF4)
 
 Links to Other Websites
 =======================
@@ -419,10 +416,10 @@ Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
 -   By email:
-	[mailto:andrewjchen@email.com](andrewjchen@email.com)
+	[andrewjchen@email.com](mailto:andrewjchen@email.com)
 
 -   By visiting this page on our website:
     [https://andrew-j-chen.github.io/contact.html](https://andrew-j-chen.github.io/contact.html)
 
 -   By phone number:
-    [sms:2195521088](219.552.1088)
+    [219.552.1088](sms:2195521088)
