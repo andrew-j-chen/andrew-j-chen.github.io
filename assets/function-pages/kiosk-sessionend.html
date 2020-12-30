@@ -2,9 +2,14 @@
 <html>
 <head>
 	<title></title>
-	<body onload="window.close();">
+	<script language="javascript" type="text/javascript">
+function windowClose() {
+window.open('','_parent','');
+window.close();
+}
+</script>
 </head>
 <body>
-
+<input type="button" value="Close this window" onclick="windowClose();">
 </body>
 </html>
